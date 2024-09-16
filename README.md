@@ -34,3 +34,10 @@
     <img src="https://github.com/user-attachments/assets/5ed33aec-1841-4b38-ace3-caf37121dd7c" alt="GitLab"/>
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/DavGal42/certifications">
+    <img src="https://github.com/user-attachments/assets/2ec10bc5-c813-4bd6-8245-51ea2a92cf09" alt="Certification" />
+  </a>
+</p>
