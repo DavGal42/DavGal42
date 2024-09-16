@@ -10,6 +10,5 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/DavGal?theme=light" alt="Leetcode Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavGal42&layout=compact" alt="Top Langs" />
 </p>
