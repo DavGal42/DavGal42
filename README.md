@@ -24,7 +24,7 @@
   <a href="https://hub.docker.com/u/davidgalstyan">
     <img src="https://github.com/user-attachments/assets/6093546c-c10c-460d-b99e-49d0f8094ee9" alt="Docker"/>
   </a>
-  <a href="https://t.me/DavGal42">
+  <a href="https://t.me/GalstyanDavid">
     <img src="https://github.com/user-attachments/assets/3c66bcaf-82fc-47b7-8923-e84195a50533" alt="Telegram"/>
   </a>
   <a href="https://www.instagram.com/davidgalstyann/">
