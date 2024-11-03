@@ -30,9 +30,6 @@
   <a href="https://www.instagram.com/davidgalstyann/">
     <img src="https://github.com/user-attachments/assets/e83367d0-6f66-473e-9fd3-411b5de51c3a" alt="Instagram"/>
   </a>
-  <a href="https://gitlab.com/DavGal42">
-    <img src="https://github.com/user-attachments/assets/5ed33aec-1841-4b38-ace3-caf37121dd7c" alt="GitLab"/>
-  </a>
 </p>
 
 
