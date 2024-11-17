@@ -27,9 +27,6 @@
   <a href="https://t.me/GalstyanDavid">
     <img src="https://github.com/user-attachments/assets/3c66bcaf-82fc-47b7-8923-e84195a50533" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/davidgalstyann/">
-    <img src="https://github.com/user-attachments/assets/e83367d0-6f66-473e-9fd3-411b5de51c3a" alt="Instagram"/>
-  </a>
 </p>
 
 
