@@ -24,13 +24,6 @@
   <a href="https://hub.docker.com/u/davidgalstyan">
     <img src="https://github.com/user-attachments/assets/6093546c-c10c-460d-b99e-49d0f8094ee9" alt="Docker"/>
   </a>
-  <a href="https://t.me/GalstyanDavid">
-    <img src="https://github.com/user-attachments/assets/3c66bcaf-82fc-47b7-8923-e84195a50533" alt="Telegram"/>
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/DavGal42/certifications">
     <img src="https://github.com/user-attachments/assets/2ec10bc5-c813-4bd6-8245-51ea2a92cf09" alt="Certification" />
   </a>
